@@ -6,4 +6,5 @@ Frontend Ocean based on my previous Framework Validator project.
 
 Links:
 http://frontendocean.com
+
 https://github.com/thomasjohn/framework-validator
