@@ -1,12 +1,9 @@
-# Frontend Ocean
-With Frontend Ocean you can refine and share frontend code.
+# Template Assistant
+With Template Assistant you can customize templates faster and create better code.
+Template Assistant is a part of Frontend Ocean.
 
-About Cdl: https://github.com/thomasjohn/cdl
-
-
- 
- 
 Frontend Ocean based on my previous Framework Validator project.
 
 Links:
+http://frontendocean.com
 https://github.com/thomasjohn/framework-validator
